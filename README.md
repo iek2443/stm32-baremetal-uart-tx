@@ -68,6 +68,5 @@ stm32-baremetal-uart-tx/\
 | Function         | Port | Pin | Description         |
 |------------------|------|-----|---------------------|
 | UART2_TX         | A    |  2  | Serial transmit pin |
-| USART2 Peripheral|      |     | APB1 connected      |
 
 ---
